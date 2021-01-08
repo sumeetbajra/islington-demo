@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.myCustomClass {
+  background-color: #61dafb;
+}
